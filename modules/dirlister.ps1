@@ -1,1 +1,1 @@
-dir
+function run {dir}

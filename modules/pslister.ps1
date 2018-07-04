@@ -1,1 +1,1 @@
-ps
+function run {ps}
